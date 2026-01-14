@@ -1,12 +1,12 @@
-.cproject
-.mrs
-.project
-.template
-custom_hid.launch
-custom_hid.wvproj
-Core/
-Debug/
-Ld/
+# .cproject
+# .mrs
+# .project
+# .template
+# custom_hid.launch
+# custom_hid.wvproj
+# Core/
+# Debug/
+# Ld/
 obj/
-Peripheral/
-Startup/
+# Peripheral/
+# Startup/
